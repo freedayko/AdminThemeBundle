@@ -21,7 +21,7 @@
         "momentjs"                  : "*",
         "backbone"                  : "*",
         "underscore"                : "*",
-        "modernizr"                 : "*",
+        "modernizr"                 : "<3.0",
         "spinjs"                    : "*",
         "marionette"                : "*",
         "pickadate"                 : "*",
